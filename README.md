@@ -2,4 +2,4 @@
 
 Updated-Portfolio this is my new Portfolio page
 
-link:
+link: https://prince0ftime.github.io/Updated-Portfolio/
